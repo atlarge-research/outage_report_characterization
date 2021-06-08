@@ -1,0 +1,13 @@
+,vendor,reqs,retries,iteration,experiment
+0,uniform,14994946.0,0,0,deep chain
+1,uniform,750141.0,1,0,deep chain
+2,uniform,22399.0,2,0,deep chain
+3,uniform,487.0,3,0,deep chain
+4,uniform,11.0,4,0,deep chain
+5,uniform,1.0,5,0,deep chain
+6,uniform,16.08635843986316,100,0,deep chain
+0,instagram,15658817.0,0,0,deep chain
+1,instagram,105242.0,1,0,deep chain
+2,instagram,1953.0,2,0,deep chain
+3,instagram,332.0,3,0,deep chain
+4,instagram,1656.6848523635356,100,0,deep chain
