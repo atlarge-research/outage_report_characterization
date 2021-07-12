@@ -1,0 +1,10 @@
+System Requirements:
+Linux (Port forwarding confirmed to work on Linux)
+Docker >= 20.0
+
+The artifact is a docker container that can be pulled from Docker Hub using the command `docker pull sacheendra/or_char`.
+
+The container can then be started using `docker run --rm -p 8888:8888 sacheendra/or_char`.
+
+The plots in the paper can be viewed by navigating to localhost:8888 in your browser.
+Run the notebooks with names starting with numbers 1 to 8, and you can see the plots.
