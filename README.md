@@ -13,4 +13,4 @@ The easiest way to run the notebooks is to use the prebuilt docker container usi
 To reproduce the graphs in the paper:
 1. Start the docker container. (If you are using Docker for Mac or Windows, you might need to expose port 8888 between docker vm and host)
 2. Navigate to localhost:8888 in your browser.
-3. Run the notebooks with numbers 1 to 8, and you can see the graphs.
+3. Run the notebooks with names starting with numbers 1 to 8, and you can see the graphs.
