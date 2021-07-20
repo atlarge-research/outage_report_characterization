@@ -13,4 +13,15 @@ The easiest way to run the notebooks is to use the prebuilt docker container usi
 To reproduce the graphs in the paper:
 1. Start the docker container. (If you are using Docker for Mac or Windows, you might need to expose port 8888 between docker vm and host)
 2. Navigate to localhost:8888 in your browser.
-3. Run the notebooks with names starting with numbers 1 to 8, and you can see the graphs.
+3. On the webpage, you should see a list of files in a pane on the left.
+4. The code to reproduce the graphs in in Jupyter notebooks. Jupyter notebooks have the extension `.ipynb`.
+5. The noteboks to produce the plots in the paper are numbered from 1 to 6.
+6. To run a notebook, first open it by double clicking it.
+7. The code in the notebook can then be run by opening the `Run` dropdown at top-left, and clicking on the `Run all cells` option.
+
+Figure to notebook reference:
+Figure 1 - Notebook 1
+Table 2 - Notebook 2
+Figure 2 - Notebook 3
+Figure 3 - Notebook 2
+Figure 4 - Experiment in Notebook 4, Plot in Notebook 5
