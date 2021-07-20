@@ -11,7 +11,7 @@ To reproduce the graphs in the paper:
 2. Navigate to localhost:8888 in your browser.
 3. On the webpage, you should see a list of files in a pane on the left.
 4. The code to reproduce the graphs in in Jupyter notebooks. Jupyter notebooks have the extension `.ipynb`.
-5. The noteboks to produce the plots in the paper are numbered from 1 to 6.
+5. The noteboks to produce the plots in the paper are numbered from 1 to 5.
 6. To run a notebook, first open it by double clicking it.
 7. The code in the notebook can then be run by opening the `Run` dropdown at top-left, and clicking on the `Run all cells` option.
 
